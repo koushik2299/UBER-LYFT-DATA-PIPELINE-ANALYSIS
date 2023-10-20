@@ -12,7 +12,7 @@ This project focuses on analyzing the data from Uber and Lyft to gain valuable i
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/uber-lyft-data-analysis.git`
+1. Clone the repository: `git clone https://github.com/koushik2299/uber-lyft-data-analysis.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 
 ## Usage
